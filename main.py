@@ -119,4 +119,4 @@ async def on_message(message):
 
     
 client.loop.create_task(time_check())
-client.run('Nzc0Njc1NjcwOTgyODUyNjE4.X6bO8A.e3TOMTaG8qAJuFDaxNotFGUaPRw')
+client.run()#bot ID 
